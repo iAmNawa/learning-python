@@ -48,3 +48,9 @@ gamma(x)	Returns the Gamma function at x
 lgamma(x)	Returns the natural logarithm of the absolute value of the Gamma function at x
 pi	Mathematical constant, the ratio of circumference of a circle to it's diameter (3.14159...)
 e	mathematical constant e (2.71828...)
+
+# Operator precendence
+()
+**
+* /
++ -
