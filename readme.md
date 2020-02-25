@@ -1,1 +1,2 @@
-# Learning Python
+# Learning Python  
+translator - ./translator
